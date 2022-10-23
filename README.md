@@ -1,2 +1,2 @@
-# Automação-Site-Amazon
+# Automação - Site Amazon
 Automação do Site Amazon com BDD
